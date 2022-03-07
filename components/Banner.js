@@ -15,7 +15,7 @@ function Banner() {
           Let your curiosity do the booking
         </p>
         <button className="text-purple-500 py-4 px-10 mt-3 font-bold bg-white shadow-md rounded-full hover:shadow-lg active:scale-90 transition-all">
-          I'm Flexible
+          I&apos;m Flexible
         </button>
       </div>
     </div>
